@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **pretty much everything. If you know how to breathe while coding, please mentor me.**
 
-- 👨‍💻 All of my projects are available at [farhanahmad.tech](farhanahmad.tech) (I got this domain for free)
+- 👨‍💻 All of my projects are available at [https://farhanahmad.tech](farhanahmad.tech) (I got this domain for free)
 
 - 📝 I regularly write articles on nothing. But if procrastination were a blog, I’d be a top writer.
 
