@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **pretty much everything. If you know how to breathe while coding, please mentor me.**
 
-- 👨‍💻 All of my projects are available at [farhanahmad.tech (I got this domain for free](farhanahmad.tech (I got this domain for free)
+- 👨‍💻 All of my projects are available at [farhanahmad.tech](farhanahmad.tech) (I got this domain for free)
 
-- 📝 I regularly write articles on [nothing. But if procrastination were a blog, I’d be a top writer.](nothing. But if procrastination were a blog, I’d be a top writer.)
+- 📝 I regularly write articles on nothing. But if procrastination were a blog, I’d be a top writer.
 
-- 💬 Ask me about **react and css. Warning: my answers may be 30% correct, 70% ChatGPT copy-paste**
+- 💬 Ask me about **any design and coding stuff. Warning: my answers may be 30% correct, 70% ChatGPT copy-paste**
 
 - 📫 How to reach me **farhan06.contact@gmail.com (please don't)**
 
